@@ -1,0 +1,14 @@
+{
+    "name": "bootstrap4-essential-training",
+    "version": "0.0.1",
+    "description": "For Bootstrap 4: Essential Training Course",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yangzuo0621/bootstrap4-Essential-Training"
+    },
+    "author": "Zuo Yang",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-webserver": "^0.9.1"
+    }
+}
